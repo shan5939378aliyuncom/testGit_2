@@ -6,6 +6,8 @@ public class A_1 {
 		// TODO Auto-generated method stub
 		System.out.println("A_1 commit right");
 		System.out.println("A_1 commit left");
+
+		System.out.println("hot_fix edit by testGit2");
 	}
 
 }
